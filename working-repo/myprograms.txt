@@ -1,3 +1,6 @@
 This file contains a list of the programs I have written.
 Says I should add new lines here... 
 nada
+Now, I have been working on the git branching. I have not really written any new programs
+I however have made a bunch of new empty files that I would like to get rid of.
+
